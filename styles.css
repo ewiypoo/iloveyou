@@ -1,0 +1,98 @@
+.top {
+
+  background-color: #ffb6b9;
+  height: 250px;
+  border: 0;
+}
+.middle {
+
+  background-color: #fae3d9;
+  height: 300px;
+    border: 0;
+}
+.second-middle {
+
+  background-color: #bbded6;
+  height: 300px;
+    border: 0;
+}
+.bottom {
+
+  background-color: #8ac6d1;
+  height: 300px;
+    border: 0;
+}
+body {
+border: 0;
+
+background-color: #daf1f9;
+
+}
+
+.menu {
+
+background-color: #fff7f7;
+height: 160px;
+
+
+}
+h5 {
+font-size: 30px;
+display: inline;
+    font-family: Impact, sans-serif;
+
+}
+.button {
+display: inline;
+
+}
+
+.babs {
+
+  width: 150px;
+  height: 300px;
+}
+
+.last-img {
+
+width: 300px;
+height: 150px;
+
+}
+div {
+
+  border: none;
+}
+
+h2 {
+
+  border-top: none;
+        font-family: Impact, sans-serif;
+}
+
+h3 {
+
+      font-family: Impact, sans-serif;
+}
+p {
+
+
+    font-family: Impact, sans-serif,Pacifico;
+    display: inline;
+
+}
+
+.jmu {
+
+height:   100px;
+width:    100px;
+display: inline-block;
+}
+
+
+.babshi {
+
+height:150px;
+width:300px ;
+
+}
